@@ -1,0 +1,4 @@
+# name: {:keys ...}
+# key: keys
+# --
+{:keys [${1:keys}]${3: :as ${2:name}}}

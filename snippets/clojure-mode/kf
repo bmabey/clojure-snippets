@@ -1,0 +1,4 @@
+# name: {:keys [...]} var
+# key: kf
+# --
+{:keys [${1:keys}]} ${2:from-var}
